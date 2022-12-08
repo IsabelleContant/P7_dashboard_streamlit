@@ -22,4 +22,4 @@ De plus, les chargés de relation client ont fait remonter le fait que les clien
 - Permettre de visualiser des informations descriptives relatives à un client (via un système de filtre).
 - Permettre de comparer les informations descriptives relatives à un client à l’ensemble des clients ou à un groupe de clients similaires.
 
-**Le dashboard réalisé avec Streamlit est accessible en [cliquant ici](https://isabellecontant-p7-dashboard-streamlit-01--homepage-a2rs6k.streamlit.app/)**
+**Le dashboard réalisé avec Streamlit est accessible en [cliquant ici](https://isabellecontant-p7-dashboard-streamlit-01--homepage-ubegdo.streamlit.app/)**
