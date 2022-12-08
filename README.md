@@ -16,7 +16,7 @@ Les données originales sont téléchargeables sur Kaggle à [cette adresse](htt
 
 De plus, les chargés de relation client ont fait remonter le fait que les clients sont de plus en plus demandeurs de transparence vis-à-vis des décisions d’octroi de crédit. Cette demande de transparence des clients va tout à fait dans le sens des valeurs que l’entreprise veut incarner. *Prêt à dépenser* décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement.
 
-*__Spécifications du dashboard__* : Il devra contenir au minimum les fonctionnalités suivantes :
+*__Spécifications du dashboard__* : Il contient les fonctionnalités suivantes :
 
 - Permettre de visualiser le score et l’interprétation de ce score pour chaque client de façon intelligible pour une personne non experte en data science.
 - Permettre de visualiser des informations descriptives relatives à un client (via un système de filtre).
