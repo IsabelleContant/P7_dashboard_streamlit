@@ -4,7 +4,7 @@ numpy
 seaborn
 matplotlib
 plotly
-sklearn
+scikit-learn
 lightgbm
 shap
 streamlit_shap
