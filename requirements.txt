@@ -1,0 +1,12 @@
+streamlit==1.15.2
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+sklearn
+lightgbm
+shap
+streamlit_shap
+Pillow
+xplotter
